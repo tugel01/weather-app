@@ -1,3 +1,9 @@
-# weather
+# weather-app
 
-A new Flutter project.
+A simple Flutter application for weather
+
+## Functions
+API (openweathermap)
+
+Animations (Lottie)
+
